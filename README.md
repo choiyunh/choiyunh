@@ -1,5 +1,9 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&&fontSize=90)  
 
+## 📫 Ask me about 💬 ... 
+ - ### svs101@dgu.ac.kr
+
+ 
 <!--
 **choiyunh/choiyunh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
