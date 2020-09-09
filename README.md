@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&&fontSize=90)  
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Hi&nbsp;there&nbsp;👋&fontSize=70)  
 
 ## 📫 Ask me about 💬 ... 
  - ### svs101@dgu.ac.kr
