@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Hi&nbsp;there&nbsp;👋&nbsp;&nbsp;&nbsp;I&nbsp;am&nbsp;YunHo&nbsp;:ghost:&fontSize=30)  
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Hi&nbsp;there&nbsp;👋&nbsp;&nbsp;&nbsp;I&nbsp;am&nbsp;YunHo&nbsp;&fontSize=30)  
 
 [![Yunho's github stats](https://github-readme-stats.vercel.app/api?username=choiyunh&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiyunh&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
