@@ -1,9 +1,10 @@
 # Hi, I'm Yunho 👋
 
-
+<!--
 [![Yunho's github stats](https://github-readme-stats.vercel.app/api?username=choiyunh&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats) 
+-->
 
-<img src="http://commitcombo.com/theme?user=choiyunh&theme=CottonCandy&v=2" width="160" height="auto"/>
+<img src="http://commitcombo.com/theme?user=choiyunh&theme=CottonCandy&v=2" width="260" height="auto"/>
  
 
  
