@@ -31,9 +31,7 @@
 - MySQL, MariaDB, MongoDB
 
 **DevOps**
-- AWS EC2, S3, RDS, CodeDeploy
-- Kubernetes, Docker
-- Jenkins
+- AWS EC2, S3, RDS
 - Nginx, Tomcat
 
 **Collaboration**
