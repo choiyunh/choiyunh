@@ -1,7 +1,8 @@
-# "안녕하세요 서버 개발자 최윤호입니다."
-- [현] 소프트웨어 마에스트로 13기
-- [현] 동국대학교 컴퓨터공학과
-- (전) 42 Seoul Cardet
+"안녕하세요 최윤호입니다."
+---
+- 소프트웨어 마에스트로 13기
+- 동국대학교 컴퓨터공학과
+- 42 Seoul Cardet
  
  ### 📨 Contact me
 - **Email** : [![Email Badge](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:svs101@naver.com)](mailto:svs101@dgu.ac.kr)
